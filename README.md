@@ -89,7 +89,7 @@ model.add(Dense(3, activation='softmax'))
    - Predicts new images using `model.predict()`.
 
 ## 📊 Evaluation
-- **Accuracy:** ~85% (Baseline Model)
+- **Accuracy:** ~74% (Baseline Model)
 - **Loss Function:** Categorical Crossentropy
 - **Optimizer:** Adam
 
